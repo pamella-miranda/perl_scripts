@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#perl calc.pl
+#perl calculator.pl
 
 #write a four-operation calculator
 #read two numbers
