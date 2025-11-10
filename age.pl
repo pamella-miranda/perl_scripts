@@ -1,11 +1,11 @@
 #------------------------------------------------------------------------------------------------------
-#You run this script as follows:
+# You run this script as follows:
 #
-#perl age.pl
+# perl age.pl
 #
-#enter the person's age
-#receber a idade da pessoa
-#print majority or not
+# enter the person's age
+# receber a idade da pessoa
+# print majority or not
 #------------------------------------------------------------------------------------------------------
 
 use strict;
