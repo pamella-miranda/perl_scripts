@@ -1,10 +1,12 @@
-#!/usr/bin/perl
-
+#------------------------------------------------------------------------------------------------------
+#You run this script as follows:
+#
 #perl age.pl
-
+#
 #enter the person's age
 #receber a idade da pessoa
 #print majority or not
+#------------------------------------------------------------------------------------------------------
 
 use strict;
 use warnings;
