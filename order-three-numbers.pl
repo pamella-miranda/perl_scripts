@@ -1,9 +1,11 @@
-#!/usr/bin/perl
-
+#------------------------------------------------------------------------------------------------------
+#You run this script as follows:
+#
 #perl order-three-numbers.pl
-
+#
 #order three numbers provided at entry
 #print in ascending order
+#------------------------------------------------------------------------------------------------------
 
 use strict;
 use warnings;
