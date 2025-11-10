@@ -1,10 +1,10 @@
 #------------------------------------------------------------------------------------------------------
-#You run this script as follows:
+# You run this script as follows:
 #
-#perl order-three-numbers.pl
+# perl order-three-numbers.pl
 #
-#order three numbers provided at entry
-#print in ascending order
+# order three numbers provided at entry
+# print in ascending order
 #------------------------------------------------------------------------------------------------------
 
 use strict;
