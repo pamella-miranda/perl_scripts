@@ -1,10 +1,12 @@
-#!/usr/bin/perl
-
+#------------------------------------------------------------------------------------------------------
+#You run this script as follows:
+#
 #perl calculator.pl
-
+#
 #write a four-operation calculator
 #read two numbers
 #read the operator (+, -, *, /)
+#------------------------------------------------------------------------------------------------------
 
 use strict;
 use warnings;
