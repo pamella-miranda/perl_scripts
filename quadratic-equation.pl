@@ -1,11 +1,11 @@
 #------------------------------------------------------------------------------------------------------
-#You run this script as follows:
+# You run this script as follows:
 #
-#perl quadratic-equation.pl
+# perl quadratic-equation.pl
 #
-#quadratic equation/second-degree equation
-#ax² + bx + c = 0
-#from a, b and c coeficients
+# quadratic equation/second-degree equation
+# ax² + bx + c = 0
+# from a, b and c coeficients
 #------------------------------------------------------------------------------------------------------
 
 use strict;
