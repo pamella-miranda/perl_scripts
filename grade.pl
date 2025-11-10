@@ -1,11 +1,11 @@
 #------------------------------------------------------------------------------------------------------
-#You run this script as follows:
+# You run this script as follows:
 #
-#perl grade.pl
+# perl grade.pl
 #
-#enter student grade
-#print approved or not approved
-#average grade 7
+# enter student grade
+# print approved or not approved
+# average grade 7
 #------------------------------------------------------------------------------------------------------
 
 use strict;
