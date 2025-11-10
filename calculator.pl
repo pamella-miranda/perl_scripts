@@ -1,11 +1,11 @@
 #------------------------------------------------------------------------------------------------------
-#You run this script as follows:
+# You run this script as follows:
 #
-#perl calculator.pl
+# perl calculator.pl
 #
-#write a four-operation calculator
-#read two numbers
-#read the operator (+, -, *, /)
+# write a four-operation calculator
+# read two numbers
+# read the operator (+, -, *, /)
 #------------------------------------------------------------------------------------------------------
 
 use strict;
