@@ -1,10 +1,12 @@
-#!/usr/bin/perl
-
+#------------------------------------------------------------------------------------------------------
+#You run this script as follows:
+#
 #perl grade.pl
-
+#
 #enter student grade
 #print approved or not approved
 #average grade 7
+#------------------------------------------------------------------------------------------------------
 
 use strict;
 use warnings;
